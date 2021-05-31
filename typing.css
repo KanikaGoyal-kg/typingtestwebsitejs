@@ -26,6 +26,7 @@ h1 {
 }
 h2 {
     text-align: center;
+    padding-top: 20px;
 }
 textarea {
     background-color: #444;
@@ -33,6 +34,7 @@ textarea {
     border-radius: 10px 10px 0 0;
     border: 20px solid #34495e;
     color: white;
+    outline: none;
 }
 .mainbtn {
     padding: 10px 20px;
@@ -40,4 +42,5 @@ textarea {
     border: 5px solid #2980b9;
     background: #ecf0f1;
     font-size: 1rem;
+    margin-top: 10px;
 }
